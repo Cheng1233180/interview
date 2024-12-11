@@ -1,0 +1,18 @@
+{
+  "name": "phone",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "basic": "file:../../commons/basic",
+    "mine": "file:../../features/mine",
+    "home": "file:../../features/home",
+    "interview": "file:../../features/interview",
+    "project": "file:../../features/project",
+    "@ohos/crypto-js": "^2.0.4"
+  },
+  "devDependencies": {},
+  "dynamicDependencies": {}
+}

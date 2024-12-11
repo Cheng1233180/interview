@@ -1,0 +1,28 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Privacy/Auth/AuthPatternLockPage",
+    "pages/Privacy/Auth/AuthPatternLockSettingsPage",
+    "pages/ProjectDetailPage",
+    "pages/InterviewDetailPage",
+    "pages/QuestionDetailPage",
+    "pages/LoginPage",
+    "pages/ClockedPage",
+    "pages/StudyTimePage",
+    "pages/WordPage",
+    "pages/SettingsPage",
+    "pages/FackAIPage",
+    "pages/RecommendedPage",
+    "pages/ProfileEditPage",
+    "pages/AboutMyPage",
+    "pages/SearchPage",
+    "pages/BootPage",
+    "pages/OptionalPage",
+    "pages/news",
+    "pages/FeedbackPage",
+    "pages/Calener/opqPage",
+    "pages/Calener/NPCPage",
+    "pages/Calener/fenxiangPage",
+    "pages/Calener/mapPage"
+  ]
+}
